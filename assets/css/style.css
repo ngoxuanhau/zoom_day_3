@@ -1,3 +1,15 @@
-.h1 {
-    color: blue;
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.photoby {
+    margin-left: 300px;
+}
+
+img {
+    max-width: 100%;
+}
+
+p,ul,ol,blockquote {
+    margin: 60px 0;
 }
